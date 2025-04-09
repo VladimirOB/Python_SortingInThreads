@@ -1,0 +1,82 @@
+Sort end.
+Algorithm:BubbleSort
+Threads: 8
+Time: 0:00:01.212354
+
+Sort end.
+Algorithm: QuickSort
+Threads: 8
+Time: 0:00:00.008995
+
+Sort end.
+Algorithm: QuickSort
+Threads: 8
+Time: 0:00:00.086950
+
+Sort end.
+Algorithm: QuickSort
+Threads: 8
+Time: 0:00:00.059279
+
+Sort end.
+Algorithm: QuickSort
+Threads: 2
+Time: 0:00:00.149342
+
+Sort end.
+Algorithm: QuickSort
+Threads: 1
+Time: 0:00:00.273827
+
+Sort end.
+Algorithm: QuickSort
+Threads: 4
+Time: 0:00:00.098937
+
+
+
+Sort end.
+Algorithm: QuickSort
+Threads: 8
+Time: 0:00:00.062962
+
+Sort end.
+Algorithm: BubbleSort
+Threads: 8
+Time: 0:00:01.274680
+
+Sort end.
+Algorithm: BubbleSort
+Threads: 4
+Time: 0:00:03.305832
+
+Sort end.
+Algorithm: BubbleSort
+Threads: 2
+Time: 0:00:05.239933
+
+Sort end.
+Algorithm: BubbleSort
+Threads: 1
+Time: 0:00:10.964387
+
+Sort end.
+Algorithm: BubbleSort
+Threads: 8
+Time: 0:00:31.878616
+
+Sort end.
+Algorithm: BubbleSort
+Threads: 4
+Time: 0:01:25.853706
+
+Sort end.
+Algorithm: QuickSort
+Threads: 4
+Time: 0:00:00.334956
+
+Sort end.
+Algorithm: BubbleSort
+Threads: 4
+Time: 0:00:00.329796
+
